@@ -1,0 +1,1 @@
+this is authicate password_get_inf
